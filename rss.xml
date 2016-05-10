@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[19 minutes north]]></title>
+        <description><![CDATA[19 minutes north]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 10 May 2016 13:16:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Welcome to 19 minutes North, the website of the Stahle family! </p>]]></description>
+            <link>undefinedwelcome-to-19-minutes-north-the-website-of-the-stahle-famil/index.html</link>
+            <guid isPermaLink="false">3fc44d5e-6ead-442b-9dfe-11afd0f92d55</guid>
+            <pubDate>Tue, 10 May 2016 13:16:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
