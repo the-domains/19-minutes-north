@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[19 minutes north]]></title>
         <description><![CDATA[19 minutes north]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/19-minutes-north/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 13:16:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 13 May 2016 14:37:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/19-minutes-north/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Welcome to 19 minutes North, the website of the Stahle family! </p>]]></description>
-            <link>undefinedwelcome-to-19-minutes-north-the-website-of-the-stahle-famil/index.html</link>
+            <link>https://thegrid.ai/19-minutes-north/welcome-to-19-minutes-north-the-website-of-the-stahle-famil/index.html</link>
             <guid isPermaLink="false">3fc44d5e-6ead-442b-9dfe-11afd0f92d55</guid>
-            <pubDate>Tue, 10 May 2016 13:16:35 GMT</pubDate>
+            <pubDate>Fri, 13 May 2016 14:37:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
