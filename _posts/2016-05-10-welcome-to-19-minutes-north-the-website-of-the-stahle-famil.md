@@ -5,22 +5,19 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Welcome to 19 minutes North, the website of the Stahle family! '
-datePublished: '2016-05-13T16:37:05.035Z'
-dateModified: '2016-05-13T16:08:37.671Z'
+datePublished: '2016-05-18T15:12:47.692Z'
+dateModified: '2016-05-18T15:12:04.523Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-10-welcome-to-19-minutes-north-the-website-of-the-stahle-famil.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 url: welcome-to-19-minutes-north-the-website-of-the-stahle-famil/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/06cc9791-b3a5-458b-a186-80daead306c9.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/72d6cf55-88e9-408a-b9d9-da291279e913.jpg)
 
 Welcome to 19 minutes North, the website of the Stahle family! 
