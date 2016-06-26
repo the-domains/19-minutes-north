@@ -1,20 +1,20 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
-description: "L'Ouganda"
-datePublished: '2016-05-25T08:07:49.296Z'
-dateModified: '2016-05-25T08:07:27.271Z'
+description: L'Ouganda
+datePublished: '2016-06-26T21:40:05.824Z'
+dateModified: '2016-05-25T08:13:25.488Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-24-nos-voyages.md
 authors: []
 publisher: null
 starred: false
-url: nos-voyages/index.html
-_type: Article
+_type: Blurb
 
 ---
 ## Nos voyages...
