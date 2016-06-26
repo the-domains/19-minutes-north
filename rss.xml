@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[19 minutes north]]></title>
         <description><![CDATA[19 minutes north]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/19-minutes-north/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 26 Jun 2016 21:41:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 26 Jun 2016 21:43:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/19-minutes-north/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[who are we]]></title>
             <description><![CDATA[<p>Who are we?</p>]]></description>
-            <link>undefinedwho-are-we/index.html</link>
+            <link>https://thegrid.ai/19-minutes-north/who-are-we/index.html</link>
             <guid isPermaLink="false">46454885-6f36-4575-9fe2-dc07a799e2a4</guid>
-            <pubDate>Sun, 26 Jun 2016 21:41:12 GMT</pubDate>
+            <pubDate>Sun, 26 Jun 2016 21:43:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
