@@ -1,20 +1,20 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 keywords: []
 description: Récemment chez les Stahle...
-datePublished: '2016-06-26T21:55:34.734Z'
-dateModified: '2016-05-27T09:48:05.759Z'
+datePublished: '2016-06-26T22:00:17.744Z'
+dateModified: '2016-06-26T21:56:19.881Z'
 title: The Latest from us..
 author: []
+sourcePath: _posts/2016-06-26-the-latest-from-us.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-26-the-latest-from-us.md
-_type: Blurb
+url: the-latest-from-us/index.html
+_type: WebPage
 
 ---
 ## The Latest from us..
