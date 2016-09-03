@@ -31,7 +31,7 @@ navigation:
   - name: Discover Kampala / A la découverte de kampala
     id: 4bfa41cf-6afa-4134-bdf4-158b5e9fbdbd
     type: content
-  - name: About us / Présentation...
+  - name: About us / Présentations...
     id: 599303a1-63ed-462a-ab9e-67e334cf221e
     type: content
 favicon: null
