@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-09-01T07:22:56.113Z'
+datePublished: '2016-09-01T07:56:35.649Z'
 sourcePath: _posts/2016-05-17-our-home-in-kampala.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-01T07:22:55.999Z'
+dateModified: '2016-09-01T07:56:34.616Z'
 title: A glimpse in our Life / Notre vie à Kampala
 id: 1d4f9ba7-912d-4929-b7e3-e55e2203e861
 publisher: {}
