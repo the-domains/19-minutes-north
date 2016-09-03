@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-01T07:23:07.308Z'
+datePublished: '2016-09-01T07:57:00.563Z'
 sourcePath: >-
   _posts/2016-05-15-discover-kampala-capital-of-uganda-our-home-for-a-few-year.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-01T07:23:07.139Z'
+dateModified: '2016-09-01T07:56:59.580Z'
 title: Discover Kampala
 id: b8bbda90-e9e4-45d5-8af4-a5967a4cde0f
 publisher: {}
