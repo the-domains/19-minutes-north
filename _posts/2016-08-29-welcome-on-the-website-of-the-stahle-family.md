@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-29T14:59:35.315Z'
+datePublished: '2016-09-01T07:20:40.460Z'
+sourcePath: _posts/2016-08-29-welcome-on-the-website-of-the-stahle-family.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-29T14:44:06.884Z'
+dateModified: '2016-09-01T07:20:39.547Z'
 title: Welcome on the website of the Stahle family!
 publisher: {}
 description: Bienvenue sur le site web de la famille Stahle
 starred: true
-sourcePath: _posts/2016-08-29-welcome-on-the-website-of-the-stahle-family.md
 _type: Blurb
 
 ---
