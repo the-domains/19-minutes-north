@@ -1,21 +1,21 @@
 ---
-datePublished: '2016-09-01T07:27:52.856Z'
+datePublished: '2016-09-01T08:16:09.164Z'
 sourcePath: _posts/2016-06-26-the-latest-from-us.md
 inFeed: true
+isBasedOnUrl: null
 authors: []
-hasPage: true
+hasPage: false
 keywords: []
 author: []
 via: {}
-dateModified: '2016-09-01T07:27:51.758Z'
+dateModified: '2016-09-01T08:16:08.034Z'
 title: The Latest from us..
 publisher: {}
 description: Récemment chez les Stahle...
 inLanguage: null
 inNav: true
 starred: false
-url: the-latest-from-us/index.html
-_type: Article
+_type: Blurb
 
 ---
 ## The Latest from us..
