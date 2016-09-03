@@ -1,17 +1,18 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
-description: Récemment chez les Stahle...
-datePublished: '2016-06-26T22:00:17.744Z'
-dateModified: '2016-06-26T21:56:19.881Z'
-title: The Latest from us..
-author: []
+datePublished: '2016-09-01T07:22:13.948Z'
 sourcePath: _posts/2016-06-26-the-latest-from-us.md
+inFeed: false
 authors: []
-publisher: null
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-09-01T07:22:12.507Z'
+title: The Latest from us..
+publisher: {}
+description: Récemment chez les Stahle...
+inLanguage: null
+inNav: true
+via: {}
 starred: false
 url: the-latest-from-us/index.html
 _type: WebPage
