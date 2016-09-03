@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: A glimpse in our Life / Notre vie à Kampala
+    id: b1f283a6-64d7-432c-88f4-8267869ab32b
+    type: content
 favicon: null
 title: Welcome to 19 Minutes north
 description: Bienvenue sur le site web de la famille STAHLE
