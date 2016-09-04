@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-01T18:17:04.617Z'
+datePublished: '2016-09-01T18:17:35.059Z'
 sourcePath: _posts/2016-06-26-the-latest-from-us.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: false
 keywords: []
 author: []
 via: {}
-dateModified: '2016-09-01T18:17:04.410Z'
+dateModified: '2016-09-01T18:17:34.012Z'
 title: ''
 publisher: {}
 description: Party time at M-Lisada! (20/06/2016)
