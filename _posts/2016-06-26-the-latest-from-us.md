@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-01T15:24:12.934Z'
+datePublished: '2016-09-01T16:09:04.457Z'
 sourcePath: _posts/2016-06-26-the-latest-from-us.md
 inFeed: true
 authors: []
@@ -7,30 +7,33 @@ hasPage: false
 keywords: []
 author: []
 via: {}
-dateModified: '2016-09-01T15:18:52.401Z'
-title: The Latest from us..
+dateModified: '2016-09-01T16:09:03.175Z'
+title: 'The Latest from us… '
 publisher: {}
-description: Récemment chez les Stahle...
+description: >-
+  A new school year has started / Une rentrée scolaire tout en douceur!
+  (22/07/2016)
 inLanguage: null
 inNav: true
 starred: false
 _type: Blurb
 
 ---
-## The Latest from us..
-
-Récemment chez les Stahle...
+## The Latest from us... 
 
 **A new school year has started / **_**Une rentrée scolaire tout en douceur**_! (22/07/2016)
 
 Ca y est, l'école a repris! Victor est en Year 6 (CM2), ravi d'être dans la même classe que l'année dernière avec ses meilleurs copains Jason et Gabriel! Leur maîtresse, miss Rothwell, est top!
 
 Emil rentre lui en Year 8 (5ième), et a la chance d'être avec ses meilleurs copains, et des profs qu'il adore! On croise les doigts pour que ça dure :-)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dfc3d8a5-b9bb-4e25-9199-8b5466042e97.jpg)
+![KISU, Kampala International School of Uganda](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d1214a2893e5c4039d2c00cb1b6650c1dfd5a410.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb45fe8c-04a2-4792-87ac-f3c8b3d58702.jpg)
 
 **Fin de l'année scolaire** (juin 2016)
 
 Les dernières semaines sont très bien remplies: comédie musicale pour Emil (Mathilda de Roald Dahl), concert pour Victor, puis cérémonies de remises de diplômes et récompenses pour les deux! Bravo à Victor pour sa récompense en maths, et à Emil pour ses récompenses en Français francophone, et ses félicitations pour le travail de l'année!!! Vos vacances sont bien méritées :-)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c668994-cb19-4c48-9889-936072318760.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d18ddbc-7551-43b5-b550-9e35b62aa848.jpg)
 
 **Party time at M-Lisada! (20/06/2016)**
 
