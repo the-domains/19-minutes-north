@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-01T14:03:47.833Z'
+datePublished: '2016-09-01T14:08:33.691Z'
 sourcePath: _posts/2016-06-26-the-latest-from-us.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: false
 keywords: []
 author: []
 via: {}
-dateModified: '2016-09-01T14:03:46.436Z'
+dateModified: '2016-09-01T14:08:32.477Z'
 title: The Latest from us..
 publisher: {}
 description: Récemment chez les Stahle...
@@ -21,7 +21,11 @@ _type: Blurb
 
 Récemment chez les Stahle...
 
-**Party time at M-Lisada!**
+**A new school year has started / **_**Une rentrée scolaire tout en douceur**_! (22/07/2016)
+
+Ca y est, l'école a repris! Victor est en Year 6 (CM2), ravi d'être dans la même classe que l'année dernière avec ses meilleurs copains Jason et Gabriel! Leur maîtresse, miss Rothwell, est top! 
+
+**Party time at M-Lisada! (20/06/2016)**
 
 Samedi, nous sommes allés en famille assister à la fête donnée par M-Lisada pour leur 20 ans d'existence. M-Lisada, c'est une ONG ougandaise créée par un ancien orphelin du bidonville voisin pour recueillir et protéger les enfants des rues, avec l'enseignement de la musique en fil directeur. Une vraie assoc', avec de vraies actions, qui cherche avant tout à réunir les enfants et leurs parents, à les protéger, et quand nécessaire à leurs apporter le refuge dont ils ont besoin.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7343b0dd-5294-451c-a8d2-337e937c1972.jpg)
