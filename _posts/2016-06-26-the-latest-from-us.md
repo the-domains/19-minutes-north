@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-01T16:09:04.457Z'
+datePublished: '2016-09-01T16:12:50.398Z'
 sourcePath: _posts/2016-06-26-the-latest-from-us.md
 inFeed: true
 authors: []
@@ -7,8 +7,8 @@ hasPage: false
 keywords: []
 author: []
 via: {}
-dateModified: '2016-09-01T16:09:03.175Z'
-title: 'The Latest from us… '
+dateModified: '2016-09-01T16:12:49.383Z'
+title: The Latest from us…
 publisher: {}
 description: >-
   A new school year has started / Une rentrée scolaire tout en douceur!
@@ -19,7 +19,7 @@ starred: false
 _type: Blurb
 
 ---
-## The Latest from us... 
+## The Latest from us...
 
 **A new school year has started / **_**Une rentrée scolaire tout en douceur**_! (22/07/2016)
 
@@ -33,7 +33,7 @@ Emil rentre lui en Year 8 (5ième), et a la chance d'être avec ses meilleurs co
 
 Les dernières semaines sont très bien remplies: comédie musicale pour Emil (Mathilda de Roald Dahl), concert pour Victor, puis cérémonies de remises de diplômes et récompenses pour les deux! Bravo à Victor pour sa récompense en maths, et à Emil pour ses récompenses en Français francophone, et ses félicitations pour le travail de l'année!!! Vos vacances sont bien méritées :-)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c668994-cb19-4c48-9889-936072318760.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d18ddbc-7551-43b5-b550-9e35b62aa848.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/a233253d8e44020dfe7c1b0b3836ae24/croprotate.jpg?cropheight=3264&cropwidth=2448&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F0d18ddbc-7551-43b5-b550-9e35b62aa848.jpg&x=0&y=0)
 
 **Party time at M-Lisada! (20/06/2016)**
 
