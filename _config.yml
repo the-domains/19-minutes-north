@@ -19,7 +19,7 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: 19 minutes north
+name: 19'north
 cta:
   domain: null
   bucket: null
@@ -28,7 +28,7 @@ navigation:
   - name: About us / Présentations...
     id: 599303a1-63ed-462a-ab9e-67e334cf221e
     type: content
-  - name: A glimpse in our Life / Notre vie à Kampala
+  - name: A glimpse in our Life / Notre vie
     id: b1f283a6-64d7-432c-88f4-8267869ab32b
     type: content
   - name: 'Discover Kampala '
