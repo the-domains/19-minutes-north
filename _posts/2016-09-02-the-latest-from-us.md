@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-09-02T15:13:58.560Z'
+datePublished: '2016-09-02T15:14:44.286Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-02T13:18:40.107Z'
+dateModified: '2016-09-02T15:14:43.209Z'
 title: The Latest from us…
 publisher: {}
 description: >-
@@ -11,8 +11,8 @@ description: >-
   Victor a travaillé sur l’entre-aide, et a préparé un mini spectacle au cours
   duquel tous les enfants devaient dessiner autour du thème. Avec pour chanson
   de conclusion l’éternelle “you can count on me”, de Bruno mars!
-starred: false
 sourcePath: _posts/2016-09-02-the-latest-from-us.md
+starred: false
 _type: Blurb
 
 ---
